@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+flask
+flask-cors
+requests
+ipykernel
+google-generativeai
+dotenv

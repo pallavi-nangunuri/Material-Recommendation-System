@@ -1,0 +1,1001 @@
+Material_Name,Cost_per_Unit ($),Load_Bearing_Capacity (tons),UV_Resistance (1-10),Durability (years),Maintenance_Frequency (years),Corrosion_Resistance (1-10)
+Reinforced Concrete,137,42,5,58,11,9
+Reinforced Concrete,133,57,6,57,8,7
+Reinforced Concrete,144,44,6,60,8,8
+Reinforced Concrete,139,54,6,59,11,8
+Reinforced Concrete,147,44,5,59,9,8
+Reinforced Concrete,108,51,7,55,9,8
+Reinforced Concrete,141,53,5,41,11,9
+Reinforced Concrete,117,49,5,45,8,7
+Reinforced Concrete,139,40,5,57,10,9
+Reinforced Concrete,144,44,7,43,11,7
+Reinforced Concrete,130,60,7,50,10,9
+Reinforced Concrete,126,60,6,59,9,8
+Reinforced Concrete,112,42,6,57,8,8
+Reinforced Concrete,115,58,7,59,8,9
+Reinforced Concrete,150,43,6,42,10,8
+Reinforced Concrete,116,50,7,58,11,7
+Reinforced Concrete,110,51,7,40,8,7
+Reinforced Concrete,101,58,7,52,12,7
+Reinforced Concrete,135,52,5,54,8,8
+Reinforced Concrete,125,54,5,46,11,9
+Reinforced Concrete,120,41,7,53,12,9
+Reinforced Concrete,105,53,5,59,9,9
+Reinforced Concrete,118,53,6,57,9,7
+Reinforced Concrete,117,54,5,44,12,7
+Reinforced Concrete,150,42,5,41,11,7
+Reinforced Concrete,142,47,5,53,8,9
+Reinforced Concrete,134,44,5,55,12,9
+Reinforced Concrete,136,54,6,59,12,7
+Reinforced Concrete,133,45,7,46,12,8
+Reinforced Concrete,140,41,6,46,12,7
+Reinforced Concrete,141,49,7,54,8,9
+Reinforced Concrete,101,60,5,58,11,7
+Reinforced Concrete,126,54,5,46,8,9
+Reinforced Concrete,114,48,5,58,8,9
+Reinforced Concrete,125,58,7,57,12,9
+Reinforced Concrete,134,55,5,41,12,7
+Reinforced Concrete,108,41,7,55,9,9
+Reinforced Concrete,117,55,7,60,9,9
+Reinforced Concrete,103,52,6,56,10,8
+Reinforced Concrete,124,41,5,41,8,7
+Reinforced Concrete,148,56,5,43,9,7
+Reinforced Concrete,141,60,5,42,12,8
+Reinforced Concrete,123,46,5,50,10,8
+Reinforced Concrete,120,43,5,46,10,8
+Reinforced Concrete,123,53,7,58,10,8
+Reinforced Concrete,118,40,6,58,9,9
+Reinforced Concrete,117,52,5,56,11,9
+Reinforced Concrete,100,46,6,46,9,7
+Reinforced Concrete,147,60,5,50,11,7
+Reinforced Concrete,142,47,6,60,12,8
+Structural Steel,208,86,6,71,17,7
+Structural Steel,195,111,4,66,18,6
+Structural Steel,215,104,5,61,16,6
+Structural Steel,201,120,4,78,13,7
+Structural Steel,197,103,6,66,18,5
+Structural Steel,190,97,4,79,18,7
+Structural Steel,217,119,5,64,17,6
+Structural Steel,215,96,6,89,14,7
+Structural Steel,185,91,5,90,18,6
+Structural Steel,184,89,6,63,18,5
+Structural Steel,186,115,6,72,13,5
+Structural Steel,217,110,6,72,13,6
+Structural Steel,212,89,5,82,12,5
+Structural Steel,207,84,5,88,18,5
+Structural Steel,218,112,4,71,16,6
+Structural Steel,212,91,5,66,15,6
+Structural Steel,203,119,5,61,16,7
+Structural Steel,204,81,6,71,17,6
+Structural Steel,192,81,6,78,12,6
+Structural Steel,196,110,5,74,18,5
+Structural Steel,197,115,4,71,14,6
+Structural Steel,187,90,4,69,13,5
+Structural Steel,203,95,4,73,16,6
+Structural Steel,188,106,5,88,18,7
+Structural Steel,200,86,4,90,16,5
+Structural Steel,199,97,4,79,13,6
+Structural Steel,184,87,6,68,14,7
+Structural Steel,217,117,4,78,13,7
+Structural Steel,184,105,4,62,13,7
+Structural Steel,210,89,6,60,18,6
+Structural Steel,208,105,5,64,15,5
+Structural Steel,192,101,6,67,12,6
+Structural Steel,186,105,6,77,17,6
+Structural Steel,210,105,4,75,18,6
+Structural Steel,201,119,6,65,17,6
+Structural Steel,196,87,6,67,18,5
+Structural Steel,192,109,4,66,17,6
+Structural Steel,212,105,6,83,17,6
+Structural Steel,195,85,4,85,13,5
+Structural Steel,216,91,4,87,18,5
+Structural Steel,186,93,5,73,14,6
+Structural Steel,181,90,6,72,17,6
+Structural Steel,185,120,6,75,12,6
+Structural Steel,189,118,4,60,12,5
+Structural Steel,206,98,6,79,12,5
+Structural Steel,187,116,6,69,15,6
+Structural Steel,219,119,6,67,18,7
+Structural Steel,213,108,6,63,18,7
+Structural Steel,189,114,6,69,14,6
+Structural Steel,217,114,5,71,18,6
+Treated Timber,65,16,3,21,5,5
+Treated Timber,75,10,3,25,6,5
+Treated Timber,60,15,3,30,3,4
+Treated Timber,82,17,5,27,3,4
+Treated Timber,72,10,4,20,6,5
+Treated Timber,76,13,4,30,7,6
+Treated Timber,78,11,3,27,7,6
+Treated Timber,82,14,3,27,3,5
+Treated Timber,72,12,3,23,3,4
+Treated Timber,61,16,5,23,4,5
+Treated Timber,98,15,3,22,6,4
+Treated Timber,95,15,4,30,3,6
+Treated Timber,90,13,3,28,3,4
+Treated Timber,76,16,3,25,3,5
+Treated Timber,91,17,5,29,4,5
+Treated Timber,71,16,5,28,5,5
+Treated Timber,93,15,5,20,5,4
+Treated Timber,79,10,4,24,5,5
+Treated Timber,72,15,5,30,7,5
+Treated Timber,73,20,5,27,5,4
+Treated Timber,92,16,4,28,4,6
+Treated Timber,73,19,5,27,5,4
+Treated Timber,88,13,3,26,4,5
+Treated Timber,95,17,5,26,3,6
+Treated Timber,68,17,4,23,5,6
+Treated Timber,89,14,5,23,6,5
+Treated Timber,82,17,5,25,3,4
+Treated Timber,97,16,3,24,4,4
+Treated Timber,61,13,4,21,5,6
+Treated Timber,67,20,4,24,6,6
+Treated Timber,100,11,3,23,3,5
+Treated Timber,97,11,3,30,4,4
+Treated Timber,86,16,5,28,5,6
+Treated Timber,82,10,3,27,4,5
+Treated Timber,83,11,5,24,7,6
+Treated Timber,62,10,4,30,7,6
+Treated Timber,63,10,4,22,4,4
+Treated Timber,64,19,3,26,6,4
+Treated Timber,78,18,4,28,4,4
+Treated Timber,82,15,3,22,3,4
+Treated Timber,90,16,3,28,5,4
+Treated Timber,100,16,4,27,5,6
+Treated Timber,85,10,4,28,3,5
+Treated Timber,82,19,3,23,3,4
+Treated Timber,90,17,3,22,3,6
+Treated Timber,73,14,3,22,7,6
+Treated Timber,63,11,3,24,4,6
+Treated Timber,92,18,5,27,5,6
+Treated Timber,73,13,3,20,7,5
+Treated Timber,87,13,3,25,6,5
+Fiber-Reinforced Polymer (FRP),238,35,10,42,18,10
+Fiber-Reinforced Polymer (FRP),247,33,10,37,19,10
+Fiber-Reinforced Polymer (FRP),270,31,10,37,19,9
+Fiber-Reinforced Polymer (FRP),244,34,9,45,20,10
+Fiber-Reinforced Polymer (FRP),246,31,10,38,20,10
+Fiber-Reinforced Polymer (FRP),232,26,8,43,18,10
+Fiber-Reinforced Polymer (FRP),260,25,9,40,19,10
+Fiber-Reinforced Polymer (FRP),265,34,8,43,18,9
+Fiber-Reinforced Polymer (FRP),249,34,9,42,22,10
+Fiber-Reinforced Polymer (FRP),238,30,10,43,20,10
+Fiber-Reinforced Polymer (FRP),243,30,9,38,20,10
+Fiber-Reinforced Polymer (FRP),244,27,9,44,22,9
+Fiber-Reinforced Polymer (FRP),231,32,8,35,21,9
+Fiber-Reinforced Polymer (FRP),232,25,8,44,20,10
+Fiber-Reinforced Polymer (FRP),249,35,9,39,19,9
+Fiber-Reinforced Polymer (FRP),239,27,10,43,19,10
+Fiber-Reinforced Polymer (FRP),261,35,10,40,19,9
+Fiber-Reinforced Polymer (FRP),259,25,8,37,21,9
+Fiber-Reinforced Polymer (FRP),264,29,9,35,21,9
+Fiber-Reinforced Polymer (FRP),246,35,8,38,22,9
+Fiber-Reinforced Polymer (FRP),237,28,10,40,19,9
+Fiber-Reinforced Polymer (FRP),268,31,9,44,20,10
+Fiber-Reinforced Polymer (FRP),268,35,10,42,19,9
+Fiber-Reinforced Polymer (FRP),265,29,9,37,19,10
+Fiber-Reinforced Polymer (FRP),230,26,10,39,18,9
+Fiber-Reinforced Polymer (FRP),265,32,9,39,21,10
+Fiber-Reinforced Polymer (FRP),230,30,8,38,21,10
+Fiber-Reinforced Polymer (FRP),251,30,9,40,19,9
+Fiber-Reinforced Polymer (FRP),238,25,8,36,22,9
+Fiber-Reinforced Polymer (FRP),243,34,10,45,18,9
+Fiber-Reinforced Polymer (FRP),254,25,10,43,19,9
+Fiber-Reinforced Polymer (FRP),245,29,10,41,18,9
+Fiber-Reinforced Polymer (FRP),254,28,10,39,20,10
+Fiber-Reinforced Polymer (FRP),267,29,10,40,20,10
+Fiber-Reinforced Polymer (FRP),254,26,9,43,21,10
+Fiber-Reinforced Polymer (FRP),265,28,8,38,21,9
+Fiber-Reinforced Polymer (FRP),250,32,10,36,18,10
+Fiber-Reinforced Polymer (FRP),257,33,8,36,19,10
+Fiber-Reinforced Polymer (FRP),238,34,10,44,18,10
+Fiber-Reinforced Polymer (FRP),269,33,8,45,18,9
+Fiber-Reinforced Polymer (FRP),261,25,10,45,19,10
+Fiber-Reinforced Polymer (FRP),268,27,9,39,20,9
+Fiber-Reinforced Polymer (FRP),264,35,10,39,21,9
+Fiber-Reinforced Polymer (FRP),268,35,9,44,21,10
+Fiber-Reinforced Polymer (FRP),251,27,9,40,21,9
+Fiber-Reinforced Polymer (FRP),232,25,10,43,20,9
+Fiber-Reinforced Polymer (FRP),261,34,9,35,18,9
+Fiber-Reinforced Polymer (FRP),243,29,9,45,19,10
+Fiber-Reinforced Polymer (FRP),261,25,8,40,18,9
+Fiber-Reinforced Polymer (FRP),237,25,8,44,21,10
+Brick,63,17,6,106,21,9
+Brick,63,17,8,94,29,10
+Brick,61,20,8,107,28,8
+Brick,50,19,8,108,23,8
+Brick,58,23,6,93,29,10
+Brick,51,22,6,106,24,8
+Brick,59,18,8,109,23,9
+Brick,53,23,8,103,23,9
+Brick,60,20,8,98,21,10
+Brick,53,16,7,102,23,10
+Brick,64,15,6,92,29,8
+Brick,60,25,6,106,22,10
+Brick,55,21,7,90,24,8
+Brick,63,25,6,106,21,8
+Brick,52,17,6,101,30,9
+Brick,50,20,7,96,21,9
+Brick,58,17,6,94,24,8
+Brick,66,20,8,107,27,9
+Brick,63,15,8,104,21,10
+Brick,51,23,8,96,23,9
+Brick,62,21,6,94,25,9
+Brick,60,19,6,99,28,8
+Brick,69,16,8,94,23,8
+Brick,60,15,6,108,21,8
+Brick,69,15,7,102,22,10
+Brick,56,15,7,94,27,8
+Brick,53,17,7,108,28,9
+Brick,58,25,7,94,24,8
+Brick,64,24,6,95,28,8
+Brick,60,25,7,107,22,8
+Brick,54,24,6,91,30,8
+Brick,56,19,6,109,25,9
+Brick,55,24,6,91,29,8
+Brick,53,17,6,102,25,10
+Brick,62,24,8,105,23,9
+Brick,69,19,7,102,26,10
+Brick,65,25,6,96,25,9
+Brick,58,16,8,91,28,10
+Brick,59,21,8,93,25,10
+Brick,64,18,6,93,25,10
+Brick,60,18,7,92,25,9
+Brick,68,15,7,106,24,9
+Brick,50,22,6,109,24,10
+Brick,64,19,8,99,28,9
+Brick,55,22,6,95,21,8
+Brick,54,25,6,101,23,10
+Brick,59,23,8,96,30,8
+Brick,70,23,6,93,24,10
+Brick,58,16,6,97,22,10
+Brick,65,18,7,105,27,8
+Aluminum,198,28,9,58,10,6
+Aluminum,163,20,9,64,13,8
+Aluminum,180,21,7,61,14,6
+Aluminum,172,22,8,59,10,6
+Aluminum,161,26,8,56,12,8
+Aluminum,179,29,7,62,10,7
+Aluminum,177,28,9,55,11,7
+Aluminum,181,20,9,57,14,7
+Aluminum,169,28,7,63,11,7
+Aluminum,160,30,8,56,14,6
+Aluminum,181,27,9,55,10,7
+Aluminum,173,28,7,65,11,8
+Aluminum,190,30,8,56,13,7
+Aluminum,192,25,7,61,11,8
+Aluminum,183,24,7,59,12,8
+Aluminum,200,20,9,62,14,7
+Aluminum,200,22,7,57,10,7
+Aluminum,193,23,9,56,10,6
+Aluminum,195,26,7,62,10,6
+Aluminum,186,21,8,63,10,8
+Aluminum,187,22,8,61,12,7
+Aluminum,200,27,9,59,13,8
+Aluminum,200,30,9,61,10,8
+Aluminum,194,22,9,61,13,6
+Aluminum,168,22,8,60,13,8
+Aluminum,172,25,7,65,11,8
+Aluminum,192,20,8,63,10,6
+Aluminum,176,21,9,61,13,6
+Aluminum,186,24,9,57,14,6
+Aluminum,161,28,7,55,13,7
+Aluminum,188,25,9,63,12,7
+Aluminum,168,30,8,58,10,8
+Aluminum,178,25,8,59,11,7
+Aluminum,195,20,9,62,12,7
+Aluminum,182,29,8,64,14,7
+Aluminum,166,26,8,57,10,8
+Aluminum,187,30,9,55,14,8
+Aluminum,194,26,7,60,13,6
+Aluminum,166,22,8,56,12,7
+Aluminum,174,20,7,64,10,8
+Aluminum,195,29,8,62,11,8
+Aluminum,198,24,9,62,13,7
+Aluminum,186,27,9,56,12,7
+Aluminum,198,23,7,59,10,7
+Aluminum,173,23,7,55,14,8
+Aluminum,191,29,8,64,14,8
+Aluminum,190,20,8,61,12,8
+Aluminum,187,20,7,58,13,7
+Aluminum,161,21,8,65,11,8
+Aluminum,180,25,7,65,14,8
+Cross-Laminated Timber (CLT),87,18,6,32,10,7
+Cross-Laminated Timber (CLT),94,20,6,35,9,5
+Cross-Laminated Timber (CLT),80,17,5,35,6,5
+Cross-Laminated Timber (CLT),94,17,6,34,7,6
+Cross-Laminated Timber (CLT),80,18,4,25,8,6
+Cross-Laminated Timber (CLT),100,18,6,29,6,7
+Cross-Laminated Timber (CLT),86,15,5,30,8,6
+Cross-Laminated Timber (CLT),81,20,6,26,7,7
+Cross-Laminated Timber (CLT),84,18,4,32,9,7
+Cross-Laminated Timber (CLT),89,18,6,29,8,7
+Cross-Laminated Timber (CLT),98,18,5,33,9,7
+Cross-Laminated Timber (CLT),82,19,4,35,9,5
+Cross-Laminated Timber (CLT),83,17,4,34,10,7
+Cross-Laminated Timber (CLT),98,16,4,29,8,5
+Cross-Laminated Timber (CLT),81,17,4,27,10,7
+Cross-Laminated Timber (CLT),90,19,5,30,10,6
+Cross-Laminated Timber (CLT),91,18,5,25,6,6
+Cross-Laminated Timber (CLT),83,18,6,32,9,5
+Cross-Laminated Timber (CLT),83,20,6,32,6,7
+Cross-Laminated Timber (CLT),92,17,4,35,7,6
+Cross-Laminated Timber (CLT),83,18,6,30,8,6
+Cross-Laminated Timber (CLT),90,20,4,25,7,6
+Cross-Laminated Timber (CLT),96,15,5,34,10,5
+Cross-Laminated Timber (CLT),80,15,6,30,9,5
+Cross-Laminated Timber (CLT),95,19,6,27,8,7
+Cross-Laminated Timber (CLT),96,19,5,29,10,5
+Cross-Laminated Timber (CLT),86,20,6,34,6,6
+Cross-Laminated Timber (CLT),91,15,6,32,7,7
+Cross-Laminated Timber (CLT),80,18,5,25,7,6
+Cross-Laminated Timber (CLT),81,18,4,34,7,6
+Cross-Laminated Timber (CLT),97,15,4,34,6,6
+Cross-Laminated Timber (CLT),98,18,6,35,6,7
+Cross-Laminated Timber (CLT),84,19,4,30,7,7
+Cross-Laminated Timber (CLT),99,16,6,29,10,5
+Cross-Laminated Timber (CLT),92,15,5,27,10,7
+Cross-Laminated Timber (CLT),87,16,4,28,9,6
+Cross-Laminated Timber (CLT),85,16,4,30,6,5
+Cross-Laminated Timber (CLT),94,20,6,33,10,5
+Cross-Laminated Timber (CLT),97,15,5,29,8,6
+Cross-Laminated Timber (CLT),99,17,6,31,10,5
+Cross-Laminated Timber (CLT),86,17,6,34,8,5
+Cross-Laminated Timber (CLT),100,15,5,32,6,7
+Cross-Laminated Timber (CLT),100,17,6,31,10,5
+Cross-Laminated Timber (CLT),92,19,4,27,9,5
+Cross-Laminated Timber (CLT),85,19,6,26,10,6
+Cross-Laminated Timber (CLT),92,16,6,30,8,6
+Cross-Laminated Timber (CLT),90,19,4,33,7,7
+Cross-Laminated Timber (CLT),95,17,6,32,6,5
+Cross-Laminated Timber (CLT),91,17,6,33,7,7
+Cross-Laminated Timber (CLT),99,19,4,31,7,5
+Precast Concrete,103,40,5,54,10,8
+Precast Concrete,119,40,5,55,10,8
+Precast Concrete,111,40,6,58,11,9
+Precast Concrete,92,45,6,59,13,9
+Precast Concrete,107,48,7,57,11,8
+Precast Concrete,109,40,5,58,12,8
+Precast Concrete,116,50,5,56,11,7
+Precast Concrete,106,45,7,59,14,8
+Precast Concrete,124,41,6,55,13,8
+Precast Concrete,110,41,7,57,14,9
+Precast Concrete,117,45,6,59,10,9
+Precast Concrete,103,40,5,53,14,8
+Precast Concrete,100,45,7,50,12,9
+Precast Concrete,105,43,7,55,14,8
+Precast Concrete,108,48,7,59,11,7
+Precast Concrete,100,47,7,54,14,7
+Precast Concrete,124,42,5,50,14,8
+Precast Concrete,104,41,7,51,12,9
+Precast Concrete,100,49,5,56,13,8
+Precast Concrete,120,49,5,50,13,9
+Precast Concrete,109,45,6,50,10,8
+Precast Concrete,120,44,5,58,14,7
+Precast Concrete,109,50,7,50,13,9
+Precast Concrete,99,50,7,50,12,8
+Precast Concrete,94,41,6,59,10,7
+Precast Concrete,122,48,5,53,11,8
+Precast Concrete,118,42,6,59,14,9
+Precast Concrete,112,41,7,51,13,8
+Precast Concrete,119,47,7,54,12,8
+Precast Concrete,106,46,5,53,14,9
+Precast Concrete,116,40,5,50,13,7
+Precast Concrete,106,40,7,57,11,9
+Precast Concrete,105,48,6,52,10,7
+Precast Concrete,113,50,7,60,12,8
+Precast Concrete,117,49,5,58,14,7
+Precast Concrete,107,44,7,54,10,9
+Precast Concrete,91,45,5,50,11,9
+Precast Concrete,90,43,7,58,12,8
+Precast Concrete,91,41,7,56,11,9
+Precast Concrete,97,50,6,53,11,7
+Precast Concrete,99,47,5,55,13,8
+Precast Concrete,114,48,6,57,13,9
+Precast Concrete,129,44,7,53,10,9
+Precast Concrete,127,44,6,58,14,8
+Precast Concrete,98,41,7,56,10,7
+Precast Concrete,118,48,7,57,10,7
+Precast Concrete,93,44,7,54,13,8
+Precast Concrete,106,46,5,52,11,8
+Precast Concrete,113,42,6,58,10,8
+Precast Concrete,91,50,7,59,11,8
+Glass Fiber Concrete,145,33,7,42,17,10
+Glass Fiber Concrete,136,40,6,42,14,9
+Glass Fiber Concrete,132,35,7,40,13,10
+Glass Fiber Concrete,147,38,7,41,18,9
+Glass Fiber Concrete,142,36,6,41,18,8
+Glass Fiber Concrete,144,39,6,41,14,10
+Glass Fiber Concrete,140,38,8,42,17,9
+Glass Fiber Concrete,147,35,6,50,13,8
+Glass Fiber Concrete,148,30,7,50,13,8
+Glass Fiber Concrete,131,40,6,40,14,8
+Glass Fiber Concrete,144,32,7,40,17,10
+Glass Fiber Concrete,136,39,6,44,15,10
+Glass Fiber Concrete,148,36,7,45,15,10
+Glass Fiber Concrete,131,38,7,40,12,10
+Glass Fiber Concrete,132,40,6,40,14,9
+Glass Fiber Concrete,135,35,8,41,16,8
+Glass Fiber Concrete,148,39,6,44,14,10
+Glass Fiber Concrete,143,37,6,47,12,8
+Glass Fiber Concrete,149,33,7,49,17,8
+Glass Fiber Concrete,143,35,7,42,15,8
+Glass Fiber Concrete,130,34,6,40,16,9
+Glass Fiber Concrete,148,36,6,45,13,9
+Glass Fiber Concrete,134,37,6,45,13,9
+Glass Fiber Concrete,130,32,6,49,14,8
+Glass Fiber Concrete,141,32,8,46,16,9
+Glass Fiber Concrete,138,32,8,48,16,9
+Glass Fiber Concrete,147,35,6,47,13,10
+Glass Fiber Concrete,145,38,6,41,15,10
+Glass Fiber Concrete,130,35,6,42,17,9
+Glass Fiber Concrete,139,34,6,47,14,10
+Glass Fiber Concrete,146,37,8,40,18,8
+Glass Fiber Concrete,149,32,6,45,17,9
+Glass Fiber Concrete,131,37,6,48,12,10
+Glass Fiber Concrete,144,37,6,42,15,8
+Glass Fiber Concrete,135,38,6,49,13,10
+Glass Fiber Concrete,136,39,8,45,13,9
+Glass Fiber Concrete,141,33,6,47,14,10
+Glass Fiber Concrete,131,30,8,45,16,9
+Glass Fiber Concrete,148,36,7,40,15,8
+Glass Fiber Concrete,131,40,8,50,16,9
+Glass Fiber Concrete,139,38,6,50,13,8
+Glass Fiber Concrete,136,36,7,41,14,8
+Glass Fiber Concrete,132,31,8,49,17,9
+Glass Fiber Concrete,146,35,8,40,16,8
+Glass Fiber Concrete,140,35,7,41,16,9
+Glass Fiber Concrete,149,40,7,44,17,9
+Glass Fiber Concrete,145,34,6,47,17,8
+Glass Fiber Concrete,149,32,8,45,15,8
+Glass Fiber Concrete,139,33,7,42,16,10
+Glass Fiber Concrete,133,31,8,46,16,8
+Stainless Steel,283,82,5,71,25,10
+Stainless Steel,284,76,6,69,33,10
+Stainless Steel,294,76,7,68,34,9
+Stainless Steel,292,82,7,65,25,9
+Stainless Steel,303,80,7,72,35,10
+Stainless Steel,309,83,7,74,34,10
+Stainless Steel,296,80,7,66,28,9
+Stainless Steel,318,79,7,74,26,10
+Stainless Steel,283,78,6,72,32,10
+Stainless Steel,313,80,6,73,29,10
+Stainless Steel,297,81,6,65,27,10
+Stainless Steel,306,78,7,69,25,10
+Stainless Steel,296,75,6,73,34,10
+Stainless Steel,320,78,7,72,26,10
+Stainless Steel,285,77,5,73,32,9
+Stainless Steel,287,80,7,69,31,9
+Stainless Steel,315,78,6,72,32,9
+Stainless Steel,299,84,5,67,29,9
+Stainless Steel,293,80,6,72,27,9
+Stainless Steel,302,79,7,69,32,9
+Stainless Steel,304,81,5,69,33,10
+Stainless Steel,293,82,5,69,31,9
+Stainless Steel,298,75,7,69,25,10
+Stainless Steel,282,77,7,70,25,10
+Stainless Steel,319,81,7,73,35,9
+Stainless Steel,319,79,6,67,27,9
+Stainless Steel,304,75,5,69,28,10
+Stainless Steel,292,83,6,68,31,10
+Stainless Steel,299,76,5,75,26,9
+Stainless Steel,302,80,7,68,34,9
+Stainless Steel,296,75,7,71,28,10
+Stainless Steel,296,77,6,65,26,10
+Stainless Steel,318,77,7,67,28,10
+Stainless Steel,310,79,7,70,26,9
+Stainless Steel,318,78,7,74,32,9
+Stainless Steel,306,85,7,71,29,10
+Stainless Steel,307,83,5,74,28,10
+Stainless Steel,310,75,5,65,35,9
+Stainless Steel,310,81,6,68,29,10
+Stainless Steel,308,85,6,67,30,10
+Stainless Steel,293,77,6,69,27,9
+Stainless Steel,302,77,6,71,35,9
+Stainless Steel,302,77,7,67,30,10
+Stainless Steel,293,77,7,69,31,10
+Stainless Steel,296,84,7,65,34,9
+Stainless Steel,302,83,5,68,26,9
+Stainless Steel,290,79,7,74,30,10
+Stainless Steel,280,75,5,69,32,9
+Stainless Steel,315,76,6,66,30,10
+Stainless Steel,303,82,6,70,29,10
+Carbon Fiber Composite,372,97,8,60,22,11
+Carbon Fiber Composite,368,101,7,53,28,10
+Carbon Fiber Composite,388,102,9,70,23,11
+Carbon Fiber Composite,353,106,8,70,25,10
+Carbon Fiber Composite,364,92,9,51,23,10
+Carbon Fiber Composite,358,94,8,66,26,11
+Carbon Fiber Composite,375,90,9,60,24,11
+Carbon Fiber Composite,390,110,8,62,27,10
+Carbon Fiber Composite,350,107,8,60,26,11
+Carbon Fiber Composite,396,110,7,56,21,11
+Carbon Fiber Composite,394,107,8,53,28,11
+Carbon Fiber Composite,370,91,9,55,28,11
+Carbon Fiber Composite,371,90,7,54,23,11
+Carbon Fiber Composite,372,96,7,69,20,10
+Carbon Fiber Composite,358,95,7,54,28,10
+Carbon Fiber Composite,382,107,8,58,26,11
+Carbon Fiber Composite,370,100,7,64,21,10
+Carbon Fiber Composite,350,92,9,61,22,11
+Carbon Fiber Composite,350,90,8,64,27,11
+Carbon Fiber Composite,362,107,7,63,30,10
+Carbon Fiber Composite,352,108,7,53,24,10
+Carbon Fiber Composite,378,95,8,68,28,11
+Carbon Fiber Composite,399,103,8,61,21,10
+Carbon Fiber Composite,384,98,7,67,27,10
+Carbon Fiber Composite,365,106,8,62,26,11
+Carbon Fiber Composite,386,102,9,56,25,11
+Carbon Fiber Composite,352,91,8,56,30,11
+Carbon Fiber Composite,359,100,8,67,22,11
+Carbon Fiber Composite,378,109,8,66,23,10
+Carbon Fiber Composite,367,96,7,52,25,11
+Carbon Fiber Composite,356,106,7,53,30,10
+Carbon Fiber Composite,366,100,8,67,22,11
+Carbon Fiber Composite,391,105,8,50,24,11
+Carbon Fiber Composite,379,93,8,60,26,11
+Carbon Fiber Composite,382,100,8,70,24,10
+Carbon Fiber Composite,369,108,8,61,28,10
+Carbon Fiber Composite,354,106,7,63,26,10
+Carbon Fiber Composite,366,100,9,52,27,11
+Carbon Fiber Composite,366,96,8,52,29,11
+Carbon Fiber Composite,382,109,9,67,23,10
+Carbon Fiber Composite,387,97,9,51,26,11
+Carbon Fiber Composite,377,90,7,64,25,10
+Carbon Fiber Composite,395,100,8,63,26,11
+Carbon Fiber Composite,394,109,7,68,26,11
+Carbon Fiber Composite,352,103,8,53,24,11
+Carbon Fiber Composite,399,108,8,61,27,10
+Carbon Fiber Composite,357,100,9,51,26,10
+Carbon Fiber Composite,367,104,7,66,28,10
+Carbon Fiber Composite,381,102,9,70,24,10
+Carbon Fiber Composite,393,91,7,52,21,10
+Hempcrete,78,6,4,29,9,8
+Hempcrete,82,7,5,26,8,8
+Hempcrete,83,7,4,21,9,8
+Hempcrete,82,7,4,35,6,7
+Hempcrete,77,9,5,33,7,7
+Hempcrete,87,10,5,33,5,8
+Hempcrete,84,7,4,30,9,6
+Hempcrete,77,9,4,23,8,7
+Hempcrete,79,8,4,36,5,8
+Hempcrete,83,7,5,21,8,8
+Hempcrete,81,9,5,21,7,7
+Hempcrete,77,6,5,37,10,7
+Hempcrete,74,9,3,40,9,6
+Hempcrete,79,6,5,35,8,8
+Hempcrete,88,10,4,33,5,6
+Hempcrete,88,5,3,20,8,8
+Hempcrete,84,8,4,25,7,6
+Hempcrete,79,5,4,22,10,7
+Hempcrete,80,5,3,21,8,7
+Hempcrete,76,6,5,23,9,8
+Hempcrete,71,10,4,35,5,8
+Hempcrete,70,7,3,21,7,8
+Hempcrete,84,8,4,32,6,7
+Hempcrete,87,6,3,27,7,6
+Hempcrete,86,8,4,31,5,7
+Hempcrete,84,6,4,29,9,7
+Hempcrete,79,8,4,32,10,7
+Hempcrete,70,8,3,38,9,6
+Hempcrete,81,9,3,29,10,6
+Hempcrete,90,10,3,33,7,8
+Hempcrete,90,8,5,34,7,6
+Hempcrete,80,7,5,37,8,6
+Hempcrete,71,7,5,32,7,8
+Hempcrete,90,6,3,40,10,7
+Hempcrete,86,6,3,33,5,7
+Hempcrete,89,6,5,30,10,6
+Hempcrete,90,8,4,33,9,7
+Hempcrete,82,7,5,39,7,6
+Hempcrete,79,9,5,28,6,6
+Hempcrete,80,6,3,22,8,8
+Hempcrete,86,5,3,39,8,8
+Hempcrete,81,7,4,39,5,6
+Hempcrete,81,5,3,26,8,6
+Hempcrete,85,5,3,29,5,6
+Hempcrete,81,5,4,23,7,6
+Hempcrete,75,6,4,27,7,6
+Hempcrete,70,9,4,34,10,8
+Hempcrete,75,5,3,32,7,7
+Hempcrete,78,8,4,23,6,8
+Hempcrete,83,10,5,38,9,7
+Ferrocement,125,37,6,65,20,7
+Ferrocement,127,31,7,75,17,7
+Ferrocement,137,32,5,70,18,7
+Ferrocement,129,34,5,68,18,8
+Ferrocement,132,32,5,70,19,7
+Ferrocement,125,33,7,75,20,9
+Ferrocement,110,37,6,78,16,7
+Ferrocement,117,33,5,76,18,7
+Ferrocement,118,32,6,77,20,7
+Ferrocement,136,41,7,71,20,9
+Ferrocement,118,45,7,70,17,9
+Ferrocement,124,38,7,60,20,8
+Ferrocement,128,34,5,72,16,8
+Ferrocement,117,32,5,62,19,7
+Ferrocement,136,41,7,62,20,7
+Ferrocement,114,36,5,66,16,8
+Ferrocement,135,38,6,72,20,7
+Ferrocement,113,36,6,61,19,8
+Ferrocement,117,38,6,75,16,7
+Ferrocement,126,38,5,67,15,9
+Ferrocement,110,41,5,60,18,7
+Ferrocement,122,32,7,62,15,7
+Ferrocement,115,38,7,76,17,9
+Ferrocement,137,34,5,61,18,8
+Ferrocement,132,32,5,72,19,8
+Ferrocement,121,42,6,80,15,7
+Ferrocement,126,34,7,70,19,9
+Ferrocement,115,40,6,75,15,7
+Ferrocement,136,41,5,78,15,9
+Ferrocement,129,34,5,65,17,7
+Ferrocement,134,40,6,79,20,9
+Ferrocement,110,45,7,64,18,7
+Ferrocement,132,45,6,67,16,9
+Ferrocement,124,42,7,65,17,9
+Ferrocement,119,44,6,62,20,8
+Ferrocement,130,31,7,77,19,9
+Ferrocement,131,36,6,67,19,8
+Ferrocement,126,44,7,77,20,7
+Ferrocement,137,34,7,78,18,7
+Ferrocement,133,35,6,68,15,8
+Ferrocement,113,33,6,67,17,7
+Ferrocement,111,30,6,64,17,8
+Ferrocement,137,34,6,72,19,8
+Ferrocement,115,35,7,68,16,7
+Ferrocement,122,40,7,66,15,9
+Ferrocement,137,38,6,68,15,8
+Ferrocement,127,42,6,70,20,9
+Ferrocement,120,33,5,80,15,9
+Ferrocement,124,36,7,68,18,8
+Ferrocement,137,32,5,62,20,8
+Rammed Earth,43,11,8,120,34,10
+Rammed Earth,46,20,7,104,38,10
+Rammed Earth,60,16,7,116,38,9
+Rammed Earth,54,12,8,100,30,9
+Rammed Earth,55,12,7,118,30,9
+Rammed Earth,45,17,8,112,36,10
+Rammed Earth,45,18,7,102,31,9
+Rammed Earth,50,19,7,107,35,9
+Rammed Earth,44,10,6,109,33,10
+Rammed Earth,51,11,6,111,40,10
+Rammed Earth,41,16,7,100,36,10
+Rammed Earth,56,17,6,116,36,9
+Rammed Earth,56,14,8,120,34,10
+Rammed Earth,58,15,8,107,35,10
+Rammed Earth,42,17,7,104,36,9
+Rammed Earth,41,14,7,114,34,10
+Rammed Earth,54,20,7,120,38,10
+Rammed Earth,44,17,8,118,36,9
+Rammed Earth,46,13,7,114,38,10
+Rammed Earth,52,14,8,100,34,9
+Rammed Earth,42,14,7,114,37,10
+Rammed Earth,42,17,8,113,30,9
+Rammed Earth,45,17,8,114,32,9
+Rammed Earth,59,14,6,104,33,9
+Rammed Earth,46,12,7,107,37,9
+Rammed Earth,43,10,6,103,37,10
+Rammed Earth,44,10,7,116,34,9
+Rammed Earth,51,11,7,103,30,10
+Rammed Earth,45,14,7,110,37,9
+Rammed Earth,42,15,7,116,32,10
+Rammed Earth,42,19,7,116,40,10
+Rammed Earth,46,10,7,113,30,9
+Rammed Earth,59,15,6,117,34,9
+Rammed Earth,53,18,8,110,38,10
+Rammed Earth,57,20,7,106,39,10
+Rammed Earth,59,14,7,102,33,9
+Rammed Earth,44,11,8,115,37,9
+Rammed Earth,53,18,7,115,30,10
+Rammed Earth,49,10,8,109,36,9
+Rammed Earth,42,14,6,106,36,9
+Rammed Earth,46,14,7,106,33,9
+Rammed Earth,60,11,7,106,40,10
+Rammed Earth,42,11,6,100,38,10
+Rammed Earth,51,16,8,114,34,10
+Rammed Earth,43,16,8,105,34,9
+Rammed Earth,56,15,8,120,40,10
+Rammed Earth,53,20,6,109,31,9
+Rammed Earth,44,12,8,114,37,10
+Rammed Earth,45,10,7,104,34,10
+Rammed Earth,43,16,7,120,33,10
+Polycarbonate Panels,155,13,10,30,9,10
+Polycarbonate Panels,180,9,10,31,9,9
+Polycarbonate Panels,159,11,10,33,11,10
+Polycarbonate Panels,177,13,9,35,11,9
+Polycarbonate Panels,178,9,9,29,10,8
+Polycarbonate Panels,175,11,9,32,11,9
+Polycarbonate Panels,178,13,10,35,9,10
+Polycarbonate Panels,178,8,10,28,12,9
+Polycarbonate Panels,163,5,10,34,10,10
+Polycarbonate Panels,154,15,10,33,10,8
+Polycarbonate Panels,168,7,9,34,9,8
+Polycarbonate Panels,170,14,9,31,12,10
+Polycarbonate Panels,178,11,9,30,10,10
+Polycarbonate Panels,155,5,9,26,8,8
+Polycarbonate Panels,169,10,9,30,11,9
+Polycarbonate Panels,175,7,10,29,8,8
+Polycarbonate Panels,155,13,9,25,11,9
+Polycarbonate Panels,169,9,9,31,11,8
+Polycarbonate Panels,152,5,10,32,10,8
+Polycarbonate Panels,178,13,10,31,12,8
+Polycarbonate Panels,169,14,9,28,10,8
+Polycarbonate Panels,153,5,9,28,9,10
+Polycarbonate Panels,172,12,9,35,10,8
+Polycarbonate Panels,180,6,9,35,11,9
+Polycarbonate Panels,173,11,9,30,10,10
+Polycarbonate Panels,173,6,9,30,10,9
+Polycarbonate Panels,163,8,10,27,10,9
+Polycarbonate Panels,165,7,9,26,11,8
+Polycarbonate Panels,171,8,9,33,9,8
+Polycarbonate Panels,170,8,10,35,8,8
+Polycarbonate Panels,176,9,10,30,10,8
+Polycarbonate Panels,166,9,10,35,8,8
+Polycarbonate Panels,165,8,9,34,11,10
+Polycarbonate Panels,178,9,9,30,8,10
+Polycarbonate Panels,170,14,10,35,8,9
+Polycarbonate Panels,163,6,10,34,11,8
+Polycarbonate Panels,169,6,10,34,11,10
+Polycarbonate Panels,179,9,9,28,12,10
+Polycarbonate Panels,172,12,10,35,8,9
+Polycarbonate Panels,163,12,10,34,9,8
+Polycarbonate Panels,151,15,9,29,10,10
+Polycarbonate Panels,176,13,10,35,9,10
+Polycarbonate Panels,152,12,10,25,8,8
+Polycarbonate Panels,156,7,9,30,12,9
+Polycarbonate Panels,176,5,10,25,11,9
+Polycarbonate Panels,155,12,10,26,9,10
+Polycarbonate Panels,177,9,10,34,12,9
+Polycarbonate Panels,171,14,10,29,11,10
+Polycarbonate Panels,163,5,10,30,8,9
+Polycarbonate Panels,168,7,10,27,9,9
+Weathering Steel (Corten),231,85,8,85,14,8
+Weathering Steel (Corten),203,80,6,84,10,8
+Weathering Steel (Corten),201,79,7,99,11,7
+Weathering Steel (Corten),229,88,8,94,13,7
+Weathering Steel (Corten),223,71,6,93,12,9
+Weathering Steel (Corten),202,82,7,100,10,8
+Weathering Steel (Corten),200,83,7,82,10,8
+Weathering Steel (Corten),227,76,8,96,13,8
+Weathering Steel (Corten),235,84,7,98,12,9
+Weathering Steel (Corten),225,86,8,97,14,7
+Weathering Steel (Corten),223,76,6,81,12,7
+Weathering Steel (Corten),234,79,7,92,12,9
+Weathering Steel (Corten),228,76,7,91,12,9
+Weathering Steel (Corten),214,82,8,96,11,9
+Weathering Steel (Corten),229,82,7,80,13,7
+Weathering Steel (Corten),215,78,8,93,13,8
+Weathering Steel (Corten),202,77,6,86,12,9
+Weathering Steel (Corten),240,83,7,89,15,8
+Weathering Steel (Corten),236,71,6,85,11,9
+Weathering Steel (Corten),215,87,8,83,15,8
+Weathering Steel (Corten),227,72,6,98,13,8
+Weathering Steel (Corten),213,76,8,89,14,7
+Weathering Steel (Corten),233,78,6,82,11,8
+Weathering Steel (Corten),221,76,6,95,12,8
+Weathering Steel (Corten),210,82,6,86,10,7
+Weathering Steel (Corten),222,84,6,88,15,8
+Weathering Steel (Corten),204,77,7,100,14,8
+Weathering Steel (Corten),234,81,8,83,13,7
+Weathering Steel (Corten),211,89,7,86,10,7
+Weathering Steel (Corten),215,80,8,96,14,9
+Weathering Steel (Corten),205,78,6,84,11,7
+Weathering Steel (Corten),217,73,8,91,14,7
+Weathering Steel (Corten),227,77,6,80,13,8
+Weathering Steel (Corten),225,71,7,99,10,9
+Weathering Steel (Corten),230,81,8,81,14,7
+Weathering Steel (Corten),213,82,7,95,14,8
+Weathering Steel (Corten),212,81,7,87,12,7
+Weathering Steel (Corten),209,77,6,86,15,9
+Weathering Steel (Corten),224,73,8,85,11,9
+Weathering Steel (Corten),208,75,7,96,11,8
+Weathering Steel (Corten),212,79,7,92,13,9
+Weathering Steel (Corten),224,82,6,96,13,7
+Weathering Steel (Corten),206,79,6,82,10,8
+Weathering Steel (Corten),219,73,6,95,12,9
+Weathering Steel (Corten),208,81,8,87,15,7
+Weathering Steel (Corten),210,81,8,97,14,7
+Weathering Steel (Corten),222,90,7,88,15,7
+Weathering Steel (Corten),239,84,6,99,15,9
+Weathering Steel (Corten),227,72,7,98,14,7
+Weathering Steel (Corten),222,78,8,90,13,9
+Geopolymer Concrete,131,51,7,75,16,10
+Geopolymer Concrete,151,46,7,84,17,9
+Geopolymer Concrete,143,50,6,78,17,10
+Geopolymer Concrete,157,51,5,76,18,10
+Geopolymer Concrete,123,45,7,82,18,10
+Geopolymer Concrete,126,52,7,79,15,8
+Geopolymer Concrete,126,49,7,88,15,9
+Geopolymer Concrete,160,55,5,89,13,10
+Geopolymer Concrete,136,55,6,87,15,9
+Geopolymer Concrete,133,50,6,86,14,10
+Geopolymer Concrete,131,49,5,89,16,10
+Geopolymer Concrete,155,55,6,80,13,9
+Geopolymer Concrete,138,54,5,82,18,8
+Geopolymer Concrete,159,52,5,77,16,9
+Geopolymer Concrete,128,47,5,83,12,10
+Geopolymer Concrete,147,50,7,89,16,10
+Geopolymer Concrete,133,55,5,90,17,8
+Geopolymer Concrete,146,45,6,89,12,9
+Geopolymer Concrete,125,54,5,73,16,9
+Geopolymer Concrete,153,55,7,79,12,9
+Geopolymer Concrete,159,53,6,71,16,9
+Geopolymer Concrete,144,55,6,87,14,10
+Geopolymer Concrete,153,47,6,71,18,9
+Geopolymer Concrete,153,50,7,71,13,8
+Geopolymer Concrete,130,51,5,82,18,9
+Geopolymer Concrete,157,46,6,80,13,9
+Geopolymer Concrete,130,54,5,79,13,8
+Geopolymer Concrete,136,52,7,87,18,8
+Geopolymer Concrete,152,54,7,78,14,10
+Geopolymer Concrete,125,54,5,72,18,8
+Geopolymer Concrete,160,47,7,85,17,10
+Geopolymer Concrete,138,53,7,83,13,10
+Geopolymer Concrete,135,50,7,70,14,10
+Geopolymer Concrete,141,55,6,77,14,9
+Geopolymer Concrete,152,54,7,77,17,9
+Geopolymer Concrete,159,47,7,74,12,10
+Geopolymer Concrete,138,55,5,75,13,10
+Geopolymer Concrete,158,50,7,70,14,10
+Geopolymer Concrete,156,46,6,86,18,9
+Geopolymer Concrete,130,49,5,83,12,8
+Geopolymer Concrete,160,47,6,77,17,8
+Geopolymer Concrete,133,45,5,76,16,9
+Geopolymer Concrete,128,53,5,76,15,8
+Geopolymer Concrete,149,47,7,84,15,8
+Geopolymer Concrete,130,48,6,70,12,10
+Geopolymer Concrete,138,46,5,78,16,10
+Geopolymer Concrete,131,51,6,84,15,10
+Geopolymer Concrete,154,45,5,75,13,8
+Geopolymer Concrete,157,51,7,82,16,8
+Geopolymer Concrete,144,53,6,86,16,10
+Basalt Fiber Reinforced Concrete,169,63,8,68,11,10
+Basalt Fiber Reinforced Concrete,151,52,7,66,13,10
+Basalt Fiber Reinforced Concrete,140,61,8,75,12,9
+Basalt Fiber Reinforced Concrete,151,64,6,64,12,10
+Basalt Fiber Reinforced Concrete,164,64,8,67,11,10
+Basalt Fiber Reinforced Concrete,140,63,8,74,14,10
+Basalt Fiber Reinforced Concrete,144,53,7,62,10,9
+Basalt Fiber Reinforced Concrete,157,64,7,62,12,10
+Basalt Fiber Reinforced Concrete,170,62,6,61,11,9
+Basalt Fiber Reinforced Concrete,146,52,8,63,15,9
+Basalt Fiber Reinforced Concrete,156,56,7,55,12,10
+Basalt Fiber Reinforced Concrete,165,65,8,75,15,9
+Basalt Fiber Reinforced Concrete,156,51,7,67,13,9
+Basalt Fiber Reinforced Concrete,154,52,7,64,11,9
+Basalt Fiber Reinforced Concrete,166,60,7,66,13,9
+Basalt Fiber Reinforced Concrete,163,52,6,72,12,9
+Basalt Fiber Reinforced Concrete,142,53,8,72,12,10
+Basalt Fiber Reinforced Concrete,165,64,7,66,14,9
+Basalt Fiber Reinforced Concrete,147,59,7,75,12,9
+Basalt Fiber Reinforced Concrete,170,51,8,64,10,10
+Basalt Fiber Reinforced Concrete,165,63,8,58,10,10
+Basalt Fiber Reinforced Concrete,159,58,7,75,10,10
+Basalt Fiber Reinforced Concrete,143,56,7,73,11,9
+Basalt Fiber Reinforced Concrete,162,65,8,70,15,10
+Basalt Fiber Reinforced Concrete,168,56,8,66,12,9
+Basalt Fiber Reinforced Concrete,152,65,7,66,14,9
+Basalt Fiber Reinforced Concrete,165,62,7,70,13,9
+Basalt Fiber Reinforced Concrete,140,64,7,63,13,10
+Basalt Fiber Reinforced Concrete,143,56,8,64,12,9
+Basalt Fiber Reinforced Concrete,162,58,8,59,13,10
+Basalt Fiber Reinforced Concrete,148,56,7,63,13,9
+Basalt Fiber Reinforced Concrete,145,50,6,59,14,10
+Basalt Fiber Reinforced Concrete,148,52,6,68,14,10
+Basalt Fiber Reinforced Concrete,154,57,7,57,15,9
+Basalt Fiber Reinforced Concrete,166,65,6,61,14,10
+Basalt Fiber Reinforced Concrete,169,54,7,75,11,9
+Basalt Fiber Reinforced Concrete,149,65,8,55,11,10
+Basalt Fiber Reinforced Concrete,167,63,8,70,15,9
+Basalt Fiber Reinforced Concrete,158,53,8,58,14,9
+Basalt Fiber Reinforced Concrete,166,59,6,63,13,9
+Basalt Fiber Reinforced Concrete,170,52,8,70,14,10
+Basalt Fiber Reinforced Concrete,159,62,8,67,13,10
+Basalt Fiber Reinforced Concrete,152,60,7,69,11,10
+Basalt Fiber Reinforced Concrete,154,59,6,64,15,9
+Basalt Fiber Reinforced Concrete,159,52,7,56,10,10
+Basalt Fiber Reinforced Concrete,147,56,6,69,10,10
+Basalt Fiber Reinforced Concrete,148,54,7,57,13,9
+Basalt Fiber Reinforced Concrete,146,58,6,63,11,9
+Basalt Fiber Reinforced Concrete,164,62,8,56,10,9
+Basalt Fiber Reinforced Concrete,143,63,8,62,12,10
+Recycled Plastic Lumber,74,8,6,40,8,9
+Recycled Plastic Lumber,71,10,6,42,5,8
+Recycled Plastic Lumber,71,11,6,46,8,9
+Recycled Plastic Lumber,72,9,5,49,5,9
+Recycled Plastic Lumber,60,9,6,34,7,8
+Recycled Plastic Lumber,67,8,4,42,6,8
+Recycled Plastic Lumber,67,10,5,33,7,7
+Recycled Plastic Lumber,60,8,5,34,5,8
+Recycled Plastic Lumber,62,8,5,41,5,8
+Recycled Plastic Lumber,72,12,6,31,7,8
+Recycled Plastic Lumber,70,10,6,39,7,9
+Recycled Plastic Lumber,77,11,6,35,6,8
+Recycled Plastic Lumber,64,9,5,50,8,8
+Recycled Plastic Lumber,75,11,6,35,6,9
+Recycled Plastic Lumber,65,8,4,37,5,8
+Recycled Plastic Lumber,68,11,6,31,5,7
+Recycled Plastic Lumber,77,10,5,37,7,8
+Recycled Plastic Lumber,72,10,6,43,8,9
+Recycled Plastic Lumber,74,8,6,47,5,9
+Recycled Plastic Lumber,66,9,5,40,6,8
+Recycled Plastic Lumber,70,10,4,50,6,7
+Recycled Plastic Lumber,65,8,6,34,8,9
+Recycled Plastic Lumber,77,12,4,47,6,8
+Recycled Plastic Lumber,61,11,5,43,7,7
+Recycled Plastic Lumber,73,9,5,48,7,7
+Recycled Plastic Lumber,76,11,6,48,8,9
+Recycled Plastic Lumber,66,9,5,36,5,9
+Recycled Plastic Lumber,62,8,5,41,6,7
+Recycled Plastic Lumber,75,12,6,32,6,7
+Recycled Plastic Lumber,73,9,5,40,5,8
+Recycled Plastic Lumber,65,9,5,36,8,9
+Recycled Plastic Lumber,78,11,5,43,7,8
+Recycled Plastic Lumber,76,12,4,48,5,9
+Recycled Plastic Lumber,71,12,5,32,6,8
+Recycled Plastic Lumber,71,10,5,46,5,8
+Recycled Plastic Lumber,66,10,4,37,7,9
+Recycled Plastic Lumber,74,10,4,49,5,9
+Recycled Plastic Lumber,78,8,6,45,6,7
+Recycled Plastic Lumber,62,11,5,32,5,8
+Recycled Plastic Lumber,77,12,4,36,6,8
+Recycled Plastic Lumber,78,11,4,30,5,7
+Recycled Plastic Lumber,71,10,6,38,6,8
+Recycled Plastic Lumber,69,11,4,34,5,8
+Recycled Plastic Lumber,77,11,4,30,6,9
+Recycled Plastic Lumber,73,8,4,39,6,7
+Recycled Plastic Lumber,72,11,6,42,8,7
+Recycled Plastic Lumber,75,11,5,41,8,9
+Recycled Plastic Lumber,68,12,6,39,5,8
+Recycled Plastic Lumber,80,9,6,31,6,9
+Recycled Plastic Lumber,64,11,5,30,6,9
+Magnesium Oxide Board,107,15,5,44,12,10
+Magnesium Oxide Board,98,10,5,45,14,10
+Magnesium Oxide Board,104,10,6,57,18,10
+Magnesium Oxide Board,109,12,7,40,17,10
+Magnesium Oxide Board,118,15,7,50,15,10
+Magnesium Oxide Board,106,13,5,47,13,8
+Magnesium Oxide Board,118,10,6,49,18,9
+Magnesium Oxide Board,92,13,5,44,19,10
+Magnesium Oxide Board,111,13,7,48,19,8
+Magnesium Oxide Board,111,12,5,58,20,8
+Magnesium Oxide Board,104,13,6,40,13,10
+Magnesium Oxide Board,106,10,5,55,16,10
+Magnesium Oxide Board,112,14,5,46,20,10
+Magnesium Oxide Board,112,10,5,46,15,10
+Magnesium Oxide Board,104,15,5,55,20,8
+Magnesium Oxide Board,101,15,5,58,20,8
+Magnesium Oxide Board,110,15,6,54,12,10
+Magnesium Oxide Board,120,11,6,47,12,10
+Magnesium Oxide Board,100,12,5,59,20,9
+Magnesium Oxide Board,115,11,6,49,12,10
+Magnesium Oxide Board,91,15,6,59,14,8
+Magnesium Oxide Board,114,12,6,59,10,10
+Magnesium Oxide Board,110,15,5,54,10,10
+Magnesium Oxide Board,98,10,6,47,14,8
+Magnesium Oxide Board,102,10,6,55,11,10
+Magnesium Oxide Board,111,11,6,53,17,8
+Magnesium Oxide Board,110,13,7,58,12,9
+Magnesium Oxide Board,110,11,7,48,10,9
+Magnesium Oxide Board,104,13,7,59,13,10
+Magnesium Oxide Board,95,10,5,40,14,9
+Magnesium Oxide Board,98,10,5,40,11,10
+Magnesium Oxide Board,97,15,7,58,13,8
+Magnesium Oxide Board,114,13,7,41,18,10
+Magnesium Oxide Board,117,14,6,47,11,8
+Magnesium Oxide Board,114,11,7,41,16,8
+Magnesium Oxide Board,107,12,5,52,18,10
+Magnesium Oxide Board,110,15,6,43,20,8
+Magnesium Oxide Board,118,10,7,56,13,9
+Magnesium Oxide Board,93,14,6,41,18,9
+Magnesium Oxide Board,107,13,7,58,13,9
+Magnesium Oxide Board,101,13,6,47,16,10
+Magnesium Oxide Board,102,10,6,43,13,10
+Magnesium Oxide Board,111,10,7,52,11,8
+Magnesium Oxide Board,115,12,7,58,10,9
+Magnesium Oxide Board,91,10,7,52,18,10
+Magnesium Oxide Board,101,13,6,58,15,9
+Magnesium Oxide Board,104,15,5,49,15,10
+Magnesium Oxide Board,102,12,5,58,13,9
+Magnesium Oxide Board,104,15,5,52,18,10
+Magnesium Oxide Board,106,12,6,42,14,8
