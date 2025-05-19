@@ -2,7 +2,6 @@ import { useState } from "react"
 import { useForm } from "react-hook-form"
 import axios from "axios"
 import { FaSpinner, FaUndo, FaCheckCircle, FaExclamationTriangle, FaInfoCircle } from "react-icons/fa"
-import { config } from "../config"
 
 const MaterialPredictionForm = () => {
     const [isLoading, setIsLoading] = useState(false)
@@ -42,7 +41,7 @@ const MaterialPredictionForm = () => {
             console.log("Sending data to API:", numericData)
 
             // Make the API call with the correct field names
-            const response = await axios.post(`http://localhost:5001/api/v1/predict`, numericData)
+            const response = await axios.post(`https://material-recommendation-system.onrender.com/api/v1/predict`, numericData)
             
             console.log("API Response:", response.data)
 
